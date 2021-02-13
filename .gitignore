@@ -24,3 +24,8 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Gerbers (all gerbers are released in a .zip)
+*.gbr
+*.gbrjob
+*.drl
