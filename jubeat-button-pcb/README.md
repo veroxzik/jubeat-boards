@@ -1,5 +1,7 @@
 # jubeat-button-pcb
 
+![PCB render](render.png)
+
 There is only one component on the board:
 
 |Mfg|Part No.|Qty|
