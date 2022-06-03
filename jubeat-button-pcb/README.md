@@ -8,11 +8,14 @@ There is only one component on the board:
 |:---:|:---|:---:|
 |JST|S9B-PH-K|1|
 
-Official:
-* https://www.digikey.com/en/products/detail/jst-sales-america-inc/S9B-PH-K-S-LF-SN/926633
-* https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America-S9B-PH-K-S-LF-SN_C157912.html
+This item is no longer manufactured by JST, but the following connectors are drop-in replacements:
 
-Clone:
+Digikey:
+* https://www.digikey.com/en/products/detail/adam-tech/2SH-C-09-TR/9830823
+* https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/440055-9/2077953
+* https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/292253-9/1855251
+
+LCSC:
 * https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_BOOMELE-Boom-Precision-Elec-PH-9AWD_C82518.html
 * https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_BOOMELE-Boom-Precision-Elec-PH-9AW_C10404.html
 
